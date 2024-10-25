@@ -1,2 +1,2 @@
 # photography
-learn how to do html and css.
+mini project in html and css.
